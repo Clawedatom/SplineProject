@@ -1,11 +1,19 @@
-Spline Project
+# Catmull-Rom Spline System
+A project that implements the use of Catmull-Rom splines to generate a smooth path.
 
-Goal: Create a program that generates a curved line using Catmull-Rom Splines.
+The project visualises the spline using train tracks and shows a train following the generated path.
 
-.Uses Control Points to generate a curved line.
-.Displays understanding by moving a train along the line.
+## My Focus
+- Implemented Catmull-Rom spline interpolation from scratch
+- Used control points to dynamically generate a curved path
+- Applied the spline system to drive object movement along the path
+- Ensured smooth interpolation and consistent motion over time
 
-To Run:
-1. Clone the project.
-2. Open in Untiy 6.
-3. Run and follow on screen instructions.
+## Tech
+- Engine: Unity 6
+- Language: C#
+- Concepts: Catmull-Rom splines, interpolation, vector maths, path-based movement
+
+## What I Learned / Would Improve
+- Strengthened understanding of spline mathematics and curve interpolation
+- To improve I would research mesh generation as the train tracks were not well made.
