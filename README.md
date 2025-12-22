@@ -3,7 +3,7 @@ A project that implements the use of Catmull-Rom splines to generate a smooth pa
 
 The project visualises the spline using train tracks and shows a train following the generated path.
 
-## My Focus
+## Key Points
 - Implemented Catmull-Rom spline interpolation from scratch
 - Used control points to dynamically generate a curved path
 - Applied the spline system to drive object movement along the path
